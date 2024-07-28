@@ -1,3 +1,11 @@
+#What I learned 
+-'go get' is no longer supported outside a module.
+-go mod init test3 is used at the start of a project
+
+## Installation
+
+-go get 'github.com/gorilla/mux' 
+
 ## Architecture Overview
 
 - **Server**: 
